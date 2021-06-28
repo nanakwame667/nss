@@ -1,23 +1,26 @@
-import logo from './logo.svg';
+import React from 'react';
+
+import {
+  BrowserRouter as Router,
+  Switch,
+  Route
+} from 'react-router-dom';
+
 import './App.css';
 
+import useWindowDimensions from './components/windowDimension';
+import LogInScreen from './screens/LogIn/login';
+import SignUpScreen from './screens/SignUp/signup';
 function App() {
+  const {width,height}=useWindowDimensions();
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="App" style={{width:width,height:height}}>
+      <Router>
+        <Switch>
+          <Route path="/" exact component={LogInScreen}/>
+          <Route path="/signup" component={SignUpScreen}/>
+        </Switch>
+      </Router>
     </div>
   );
 }
