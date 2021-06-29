@@ -12,14 +12,13 @@ import useWindowDimensions from './components/windowDimension';
 import LogInScreen from './screens/LogIn/login';
 import SignUpScreen from './screens/SignUp/signup';
 
-
 function App() {
   const {width,height}=useWindowDimensions();
   return (
     <div className="App" 
     style={{
       width:width,
-      height:height
+      height:height,
           }}
     >
       <Router>

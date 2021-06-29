@@ -1,12 +1,22 @@
 .signUp{
-    width: 483px;
-    height: 600px;
-    background: white;
-    border-radius: 24px;
+    width: 80%;
+    height: 80%;
+    background:url('./../../images/background.svg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 25px;
     align-self: center;
     display: flex;
     flex-direction: column;
-    align-items:center ;
+    justify-content: center;
+    align-items:flex-start ;
+    box-shadow: 18px 18px 18px 12px rgba(0, 0, 0, 0.2);
+}
+.signUpDetails{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 50px;
 }
 .formName{
     display: flex;
@@ -15,19 +25,27 @@
 
 .formName input{
     width: 185px;
-    height: 60px;
+    height: 50px;
+    border: 1px double #23966F;
 }
 
 .signup-btn{
-    font-family: Gilroy-Bold,serif;
-    width: 220px;
-    height: 50px;
-    background: #1344A5;
-    color: white;
-    font-size: 17px;
-    border-style: none;
-    border-radius: 20px;
-    margin-top: 28px;
+    --c: #23966F;
+    color: var(--c);
+    font-family: Gilroy-ExtraBold,serif;
+    font-size: large;
+    border: 0.1em solid var(--c);
+    border-radius: 1.2em;
+    width: 12em;
+    height: 3.1em;
+    letter-spacing: 0.1em;
+    text-align: center;
+    line-height: 3em;
+    position: relative;
+    overflow: hidden;
+    z-index: 1;
+    transition: 0.5s;
+    margin: 1em;
     cursor: pointer;
 }
 
@@ -40,6 +58,10 @@
     .signUp{
         width: 84%;
         height: 570px;
+        box-shadow: 18px 18px 18px 12px rgba(0, 0, 0, 0.2);
+        align-items: center;
+        
+        
     }
     .formName input{
         width: 300px;

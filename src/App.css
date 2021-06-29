@@ -1,5 +1,5 @@
 .App {
-  background: #EBF5FB;
+  background: url('./images/background.svg');
   display: flex;
   justify-content: center;
   font-family: Gilroy-Light,serif;
@@ -8,7 +8,7 @@
 h1{
   font-family: Gilroy-ExtraBold,serif;
   font-size: 36px;
-  color: #1344A5;
+  color: #142444;
   margin-top: 36px;
 }
 
@@ -17,35 +17,88 @@ p{
 }
 a{
   text-decoration: none;
-  color: #1344A5;
+  color: #142444;
   font-family: Gilroy-ExtraBold;
 }
 button{
-  width: 220px;
-  height: 50px;
-  background: #1344A5;
-  color: white;
-  font-size: 20px;
-  border-style: none;
-  border-radius: 20px;
-  margin-top: 28px;
-  cursor: pointer;
+  --c: #23966F;
+    color: var(--c);
+    font-family: Gilroy-ExtraBold,serif;
+    font-size: large;
+    border: 0.1em solid var(--c);
+    border-radius: 1.2em;
+    width: 12em;
+    height: 3.1em;
+    letter-spacing: 0.1em;
+    text-align: center;
+    line-height: 3em;
+    position: relative;
+    overflow: hidden;
+    z-index: 1;
+    transition: 0.5s;
+    margin: 1em; 
+    cursor: pointer;
 }
+
+button span {
+  position: absolute;
+  width: 25%;
+  height: 100%;
+  background-color: var(--c);
+  transform: translateY(150%);
+  border-radius: 50%;
+  left: calc((var(--n) - 1) * 25%);
+  transition: 0.5s;
+  transition-delay: calc((var(--n) - 1) * 0.1s);
+  z-index: -1;
+}
+
+button:hover {
+  color: white;
+  background: #142444;
+}
+
+button:hover span {
+  transform: translateY(0) scale(2);
+}
+
+button span:nth-child(1) {
+  --n: 1;
+}
+
+button span:nth-child(2) {
+  --n: 2;
+}
+
+button span:nth-child(3) {
+  --n: 3;
+}
+
+
+button span:nth-child(4) {
+  --n: 4;
+}
+
 form{
   display: flex;
   flex-direction: column;
 }
 form input{
   width: 400px;
-  height: 60px;
-  margin: 28px 16px 0px;
-  border: none;
+  height: 50px;
+  margin: 25px 16px 0px;
+  border: 1px solid #23966F;
   background: #F3F3F3;
   border-radius: 25px;
   font-family: Gilroy-Light,serif;
   font-size: 18px;
   padding-left: 27px;
   outline: none;
+}
+form input:focus { 
+  outline: none !important;
+  border-color: #23966F;
+  box-shadow: 0 0 10px #23966F;
 }
 
 @media only screen and (max-width: 768px){

@@ -1,0 +1,123 @@
+<svg id="Component_17_1" data-name="Component 17 – 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920.18" height="1080" viewBox="0 0 1920.18 1080">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_2" data-name="Path 2" d="M1619.033,25s367.32,192.566,288.2,328.192S1667.068,542.5,1661.417,615.967s211.915,203.439,135.626,274.077-502.946,155.4-511.422,180.834,0,31.081,0,31.081H2653.18V25Z" transform="translate(-733 -25)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect width="1600" height="1200" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#23966f"/>
+      <stop offset="1" stop-color="#124b38"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.345" xlink:href="#linear-gradient"/>
+  </defs>
+  <rect id="Rectangle_8" data-name="Rectangle 8" width="1920" height="1080" fill="#ddece7"/>
+  <g id="Mask_Group_2" data-name="Mask Group 2" clip-path="url(#clip-path)">
+    <g id="Component_14_1" data-name="Component 14 – 1" transform="translate(361 -34)" clip-path="url(#clip-path-2)">
+      <rect id="Background" width="1600" height="1200" transform="translate(0 0)" fill="#fff"/>
+      <g id="Rangitikei" transform="translate(0 -100)">
+        <rect id="Shape" width="1600" height="1200" transform="translate(0 100)" fill="#ececf4"/>
+        <rect id="Shape-2" data-name="Shape" width="200" height="200" transform="translate(800 100)" fill="#111747"/>
+        <rect id="Shape-3" data-name="Shape" width="200" height="200" transform="translate(600 100)" fill="#111747"/>
+        <path id="Shape-4" data-name="Shape" d="M100,0H200a0,0,0,0,1,0,0V200a0,0,0,0,1,0,0H100A100,100,0,0,1,0,100v0A100,100,0,0,1,100,0Z" transform="translate(200 500)" fill="#111747"/>
+        <rect id="Shape-5" data-name="Shape" width="200" height="200" transform="translate(600 500)" fill="#111747"/>
+        <rect id="Shape-6" data-name="Shape" width="200" height="200" transform="translate(600 700)" fill="#ffc641"/>
+        <rect id="Shape-7" data-name="Shape" width="200" height="200" transform="translate(1000 500)" fill="#06818e"/>
+        <rect id="Shape-8" data-name="Shape" width="200" height="200" transform="translate(800 500)" fill="#06818e"/>
+        <rect id="Shape-9" data-name="Shape" width="200" height="200" transform="translate(600 1100)" fill="#ffc641"/>
+        <rect id="Shape-10" data-name="Shape" width="200" height="200" transform="translate(400 500)" fill="#111747"/>
+        <rect id="Shape-11" data-name="Shape" width="200" height="200" transform="translate(600 900)" fill="#f7fbfc"/>
+        <rect id="Shape-12" data-name="Shape" width="200" height="200" transform="translate(600 300)" fill="#16a3b2"/>
+        <path id="Shape-13" data-name="Shape" d="M0,0H100A100,100,0,0,1,200,100v0A100,100,0,0,1,100,200H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(800 500)" fill="#111747"/>
+        <path id="Shape-14" data-name="Shape" d="M0,0H100A100,100,0,0,1,200,100v0A100,100,0,0,1,100,200H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(800 1100)" fill="#fe5e33"/>
+        <path id="Shape-15" data-name="Shape" d="M0,0H100A100,100,0,0,1,200,100v0A100,100,0,0,1,100,200H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(800 900)" fill="#16a3b2"/>
+        <path id="Shape-16" data-name="Shape" d="M100,0h0A100,100,0,0,1,200,100V200a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V100A100,100,0,0,1,100,0Z" transform="translate(600 100)" fill="#16a3b2"/>
+        <path id="Shape-17" data-name="Shape" d="M100,0h0A100,100,0,0,1,200,100V200a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V100A100,100,0,0,1,100,0Z" transform="translate(1200 300)" fill="#fe5e33"/>
+        <path id="Shape-18" data-name="Shape" d="M100,0h0A100,100,0,0,1,200,100V200a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V100A100,100,0,0,1,100,0Z" transform="translate(800 300)" fill="#fe5e33"/>
+        <path id="Shape-19" data-name="Shape" d="M100,0h0A100,100,0,0,1,200,100V200a0,0,0,0,1,0,0H.6a.6.6,0,0,1-.6-.6V100A100,100,0,0,1,100,0Z" transform="translate(400 300)" fill="#ff87a2"/>
+        <path id="Shape-20" data-name="Shape" d="M100,0h0A100,100,0,0,1,200,100V200a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V100A100,100,0,0,1,100,0Z" transform="translate(400 1100)" fill="#ff87a2"/>
+        <path id="Shape-21" data-name="Shape" d="M0,0H200A100,100,0,0,1,100,100,100,100,0,0,1,0,0Z" transform="translate(600 500)" fill="#06818e"/>
+        <path id="Shape-22" data-name="Shape" d="M0,0H200A100,100,0,0,1,100,100,100,100,0,0,1,0,0Z" transform="translate(1000 300)" fill="#06818e"/>
+        <path id="Shape-23" data-name="Shape" d="M0,0H200A100,100,0,0,1,100,100,100,100,0,0,1,0,0Z" transform="translate(1200 400)" fill="#ffc641"/>
+        <path id="Shape-24" data-name="Shape" d="M1.98,0H198.02A1.98,1.98,0,0,1,200,1.98v0A198.02,198.02,0,0,1,1.98,200H0a0,0,0,0,1,0,0V1.98A1.98,1.98,0,0,1,1.98,0Z" transform="translate(800 700)" fill="#16a3b2"/>
+        <path id="Shape-25" data-name="Shape" d="M5.4,0H200a0,0,0,0,1,0,0V100A100,100,0,0,1,100,200h0A100,100,0,0,1,0,100V5.4A5.4,5.4,0,0,1,5.4,0Z" transform="translate(200 700)" fill="#16a3b2"/>
+        <path id="Shape-26" data-name="Shape" d="M200,100H0a100,100,0,0,1,200,0Z" transform="translate(600 800)" fill="#06818e"/>
+        <path id="Shape-27" data-name="Shape" d="M200,100H0a100,100,0,0,1,200,0Z" transform="translate(1400 400)" fill="#16a3b2"/>
+        <path id="Shape-28" data-name="Shape" d="M200,100H0a100,100,0,0,1,200,0Z" transform="translate(400 600)" fill="#fe5e33"/>
+        <rect id="Shape-29" data-name="Shape" width="200" height="200" transform="translate(1200 900)" fill="#f7fbfc"/>
+        <rect id="Shape-30" data-name="Shape" width="200" height="200" transform="translate(1200 1100)" fill="#fe5e33"/>
+        <rect id="Shape-31" data-name="Shape" width="200" height="200" transform="translate(400 700)" fill="#ffc641"/>
+        <path id="Shape-32" data-name="Shape" d="M0,0H200a0,0,0,0,1,0,0V100A100,100,0,0,1,100,200h0A100,100,0,0,1,0,100V0A0,0,0,0,1,0,0Z" transform="translate(400 900)" fill="#ffc641"/>
+        <path id="Path" d="M0,100A100,100,0,0,1,100,0,100,100,0,0,1,0,100Z" transform="translate(600 100)" fill="#06818e"/>
+        <rect id="Shape-33" data-name="Shape" width="200" height="200" transform="translate(1200 500)" fill="#fe5e33"/>
+        <rect id="Shape-34" data-name="Shape" width="200" height="200" transform="translate(0 1100)" fill="#111747"/>
+        <rect id="Shape-35" data-name="Shape" width="200" height="200" transform="translate(1200 100)" fill="#fe5e33"/>
+        <rect id="Shape-36" data-name="Shape" width="200" height="200" transform="translate(0 300)" fill="#16a3b2"/>
+        <rect id="Shape-37" data-name="Shape" width="200" height="200" transform="translate(1400 500)" fill="#16a3b2"/>
+        <rect id="Shape-38" data-name="Shape" width="200" height="200" transform="translate(1000 100)" fill="#06818e"/>
+        <rect id="Shape-39" data-name="Shape" width="200" height="200" transform="translate(0 700)" fill="#fe5e33"/>
+        <rect id="Shape-40" data-name="Shape" width="200" height="200" transform="translate(1200 700)" fill="#fe5e33"/>
+        <path id="Shape-41" data-name="Shape" d="M0,0H198.347A1.653,1.653,0,0,1,200,1.653V198.347A1.653,1.653,0,0,1,198.347,200h0A198.347,198.347,0,0,1,0,1.653V0A0,0,0,0,1,0,0Z" transform="translate(1200 700)" fill="#111747"/>
+        <path id="Shape-42" data-name="Shape" d="M100,200A100,100,0,0,1,100,0Z" transform="translate(1100 500)" fill="#16a3b2"/>
+        <path id="Shape-43" data-name="Shape" d="M0,200V0A100,100,0,0,1,100,100,100,100,0,0,1,0,200Z" transform="translate(1200 500)" fill="#16a3b2"/>
+        <path id="Shape-44" data-name="Shape" d="M0,0H100A100,100,0,0,1,200,100v0A100,100,0,0,1,100,200H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(1400 900)" fill="#16a3b2"/>
+        <path id="Shape-45" data-name="Shape" d="M100,200A100,100,0,0,1,100,0Z" transform="translate(1300 900)" fill="#16a3b2"/>
+        <rect id="Shape-46" data-name="Shape" width="200" height="200" rx="100" transform="translate(0 500)" fill="#ff87a2"/>
+        <rect id="Shape-47" data-name="Shape" width="200" height="200" rx="100" transform="translate(1000 900)" fill="#ffc641"/>
+        <rect id="Shape-48" data-name="Shape" width="200" height="200" transform="translate(1400 700)" fill="#ff87a2"/>
+        <path id="Shape-49" data-name="Shape" d="M100,0H200a0,0,0,0,1,0,0V200a0,0,0,0,1,0,0H100A100,100,0,0,1,0,100v0A100,100,0,0,1,100,0Z" transform="translate(1000 700)" fill="#ff87a2"/>
+        <path id="Shape-50" data-name="Shape" d="M0,0H200A100,100,0,0,1,100,100,100,100,0,0,1,0,0Z" transform="translate(200 500)" fill="#ff87a2"/>
+        <path id="Shape-51" data-name="Shape" d="M0,0H200A100,100,0,0,1,100,100,100,100,0,0,1,0,0Z" transform="translate(800 500)" fill="#fe5e33"/>
+        <rect id="Shape-52" data-name="Shape" width="200" height="200" transform="translate(200 300)" fill="#ff87a2"/>
+        <path id="Shape-53" data-name="Shape" d="M200,100H0a100,100,0,0,1,200,0Z" transform="translate(200 200)" fill="#ff87a2"/>
+        <path id="Shape-54" data-name="Shape" d="M100,0A100,100,0,0,1,0,100,100,100,0,0,1,100,0Z" transform="translate(300 100)" fill="#06818e"/>
+        <path id="Shape-55" data-name="Shape" d="M0,100A100,100,0,0,1,100,0,100,100,0,0,1,0,100Z" transform="translate(200 200)" fill="#111747"/>
+        <path id="Shape-56" data-name="Shape" d="M100,0A100,100,0,0,1,0,100,100,100,0,0,1,100,0Z" transform="translate(700 300)" fill="#111747"/>
+        <path id="Shape-57" data-name="Shape" d="M0,0A100,100,0,0,1,100,100,100,100,0,0,1,0,0Z" transform="translate(1000 500)" fill="#16a3b2"/>
+        <path id="Shape-58" data-name="Shape" d="M100,0A100,100,0,0,1,0,100,100,100,0,0,1,100,0Z" transform="translate(1300 700)" fill="#ffc641"/>
+        <path id="Shape-59" data-name="Shape" d="M100,0A100,100,0,0,1,0,100,100,100,0,0,1,100,0Z" transform="translate(100 300)" fill="#ffc641"/>
+        <path id="Shape-60" data-name="Shape" d="M0,200V0A100,100,0,0,1,100,100,100,100,0,0,1,0,200Z" transform="translate(200 700)" fill="#fe5e33"/>
+        <path id="Shape-61" data-name="Shape" d="M0,100A100,100,0,0,1,100,0,100,100,0,0,1,0,100Z" transform="translate(0 800)" fill="#16a3b2"/>
+        <rect id="Shape-62" data-name="Shape" width="200" height="200" rx="100" transform="translate(0 100)" fill="#06818e"/>
+        <path id="Shape-63" data-name="Shape" d="M0,100A100,100,0,0,1,100,0,100,100,0,0,1,0,100Z" transform="translate(0 400)" fill="#06818e"/>
+        <path id="Shape-64" data-name="Shape" d="M0,100A100,100,0,0,1,100,0,100,100,0,0,1,0,100Z" transform="translate(600 600)" fill="#f7fbfc"/>
+        <path id="Shape-65" data-name="Shape" d="M150,173.244h0a100.573,100.573,0,0,1-36.209-35.915,99.935,99.935,0,0,1,0-101.414A100.574,100.574,0,0,1,150,0a100.573,100.573,0,0,1,36.208,35.915,99.937,99.937,0,0,1,0,101.414A100.573,100.573,0,0,1,150,173.244Zm-100,0h0a100.573,100.573,0,0,1-36.209-35.915,99.935,99.935,0,0,1,0-101.414A100.574,100.574,0,0,1,50,0,100.573,100.573,0,0,1,86.209,35.915,99.485,99.485,0,0,1,96.391,59.9,100.231,100.231,0,0,1,100,86.621a100.235,100.235,0,0,1-3.609,26.719,99.485,99.485,0,0,1-10.182,23.989A100.573,100.573,0,0,1,50,173.244Z" transform="translate(0 913.333)" fill="#16a3b2"/>
+        <rect id="Shape-66" data-name="Shape" width="200" height="200" rx="100" transform="translate(1400 500)" fill="#111747"/>
+        <rect id="Shape-67" data-name="Shape" width="200" height="200" rx="100" transform="translate(400 900)" fill="#16a3b2"/>
+        <rect id="Shape-68" data-name="Shape" width="200" height="200" rx="100" transform="translate(300 800)" fill="#f7fbfc"/>
+        <rect id="Shape-69" data-name="Shape" width="200" height="200" rx="100" transform="translate(400 700)" fill="#fe5e33"/>
+        <rect id="Shape-70" data-name="Shape" width="100" height="100" rx="50" transform="translate(1450 550)" fill="#ffc641"/>
+        <rect id="Shape-71" data-name="Shape" width="100" height="100" rx="50" transform="translate(450 550)" fill="#ffc641"/>
+        <rect id="Shape-72" data-name="Shape" width="100" height="100" rx="50" transform="translate(50 550)" fill="#111747"/>
+        <rect id="Shape-73" data-name="Shape" width="100" height="100" rx="50" transform="translate(650 950)" fill="#fe5e33"/>
+        <rect id="Shape-74" data-name="Shape" width="100" height="100" rx="50" transform="translate(850 750)" fill="#fe5e33"/>
+        <rect id="Shape-75" data-name="Shape" width="100" height="100" rx="50" transform="translate(250 950)" fill="#16a3b2"/>
+        <rect id="Shape-76" data-name="Shape" width="100" height="100" rx="50" transform="translate(1050 750)" fill="#16a3b2"/>
+        <rect id="Shape-77" data-name="Shape" width="100" height="100" rx="50" transform="translate(50 950)" fill="#fe5e33"/>
+        <rect id="Shape-78" data-name="Shape" width="100" height="100" rx="50" transform="translate(850 350)" fill="#ffc641"/>
+        <rect id="Shape-79" data-name="Shape" width="100" height="100" rx="50" transform="translate(250 750)" fill="#111747"/>
+        <rect id="Shape-80" data-name="Shape" width="100" height="100" rx="50" transform="translate(650 450)" fill="#fe5e33"/>
+        <rect id="Shape-81" data-name="Shape" width="100" height="100" rx="50" transform="translate(1450 950)" fill="#fe5e33"/>
+        <path id="Shape-82" data-name="Shape" d="M200,200h0a100.737,100.737,0,0,1-20.152-2.032,99.451,99.451,0,0,1-35.757-15.047,100.292,100.292,0,0,1-36.231-44,99.5,99.5,0,0,1-5.827-18.771A100.725,100.725,0,0,1,100,100.294a100.841,100.841,0,0,1-2.032,19.859,99.49,99.49,0,0,1-5.827,18.77,99.966,99.966,0,0,1-9.22,16.987,100.732,100.732,0,0,1-12.211,14.8,100.73,100.73,0,0,1-14.8,12.211,99.964,99.964,0,0,1-16.987,9.22,99.416,99.416,0,0,1-18.77,5.827A100.765,100.765,0,0,1,0,200H0a100.81,100.81,0,0,1,2.031-20.154,99.482,99.482,0,0,1,15.047-35.757,100.286,100.286,0,0,1,44-36.23,99.423,99.423,0,0,1,18.77-5.827A100.706,100.706,0,0,1,100,100a100.8,100.8,0,0,1-20.154-2.031,99.441,99.441,0,0,1-18.77-5.827,99.955,99.955,0,0,1-16.987-9.22A100.71,100.71,0,0,1,29.29,70.71a100.71,100.71,0,0,1-12.211-14.8,99.956,99.956,0,0,1-9.22-16.987,99.441,99.441,0,0,1-5.828-18.77A100.8,100.8,0,0,1,0,0,100.77,100.77,0,0,1,20.154,2.031a99.441,99.441,0,0,1,18.77,5.827,99.955,99.955,0,0,1,16.987,9.22A100.71,100.71,0,0,1,70.71,29.29a100.711,100.711,0,0,1,12.211,14.8,99.955,99.955,0,0,1,9.22,16.987,99.44,99.44,0,0,1,5.827,18.77A100.793,100.793,0,0,1,100,100a100.807,100.807,0,0,1,2.031-20.153,99.482,99.482,0,0,1,15.047-35.757,100.286,100.286,0,0,1,44-36.23,99.423,99.423,0,0,1,18.77-5.827A100.773,100.773,0,0,1,200,0a100.782,100.782,0,0,1-2.031,20.154,99.421,99.421,0,0,1-5.827,18.77,99.964,99.964,0,0,1-9.22,16.987,100.733,100.733,0,0,1-12.211,14.8,100.732,100.732,0,0,1-14.8,12.211,99.966,99.966,0,0,1-16.987,9.22,99.491,99.491,0,0,1-18.77,5.827A100.768,100.768,0,0,1,100,100a100.738,100.738,0,0,1,20.153,2.032,99.451,99.451,0,0,1,35.757,15.047,100.292,100.292,0,0,1,36.23,44,99.5,99.5,0,0,1,5.827,18.771A100.738,100.738,0,0,1,200,200Z" transform="translate(1200 200)" fill="#111747"/>
+        <path id="Shape-83" data-name="Shape" d="M0,100A100,100,0,0,1,100,0,100,100,0,0,1,0,100Z" transform="translate(1100 1100)" fill="#111747"/>
+        <path id="Shape-84" data-name="Shape" d="M0,0H200a0,0,0,0,1,0,0V100A100,100,0,0,1,100,200h0A100,100,0,0,1,0,100V0A0,0,0,0,1,0,0Z" transform="translate(400 100)" fill="#06818e"/>
+        <path id="Shape-85" data-name="Shape" d="M0,100A100,100,0,0,1,100,0,100,100,0,0,1,0,100Z" transform="translate(500 100)" fill="#fe5e33"/>
+        <rect id="Shape-86" data-name="Shape" width="200" height="200" transform="translate(200 1100)" fill="#111747"/>
+        <path id="Shape-87" data-name="Shape" d="M200,100H0a100,100,0,0,1,200,0Z" transform="translate(200 1000)" fill="#fe5e33"/>
+        <path id="Shape-88" data-name="Shape" d="M100,0H200a0,0,0,0,1,0,0V200a0,0,0,0,1,0,0H100A100,100,0,0,1,0,100v0A100,100,0,0,1,100,0Z" transform="translate(1400 100)" fill="#111747"/>
+        <rect id="Shape-89" data-name="Shape" width="100" height="100" rx="50" transform="translate(1450 150)" fill="#f7fbfc"/>
+        <path id="Shape-90" data-name="Shape" d="M0,100A100,100,0,0,1,100,0,100,100,0,0,1,0,100Z" transform="translate(100 1100)" fill="#16a3b2"/>
+        <path id="Shape-91" data-name="Shape" d="M200,200h0a100.737,100.737,0,0,1-20.152-2.032,99.451,99.451,0,0,1-35.757-15.047,100.292,100.292,0,0,1-36.231-44,99.5,99.5,0,0,1-5.827-18.771A100.725,100.725,0,0,1,100,100.294a100.841,100.841,0,0,1-2.032,19.859,99.49,99.49,0,0,1-5.827,18.77,99.966,99.966,0,0,1-9.22,16.987,100.732,100.732,0,0,1-12.211,14.8,100.73,100.73,0,0,1-14.8,12.211,99.964,99.964,0,0,1-16.987,9.22,99.416,99.416,0,0,1-18.77,5.827A100.765,100.765,0,0,1,0,200H0a100.81,100.81,0,0,1,2.031-20.154,99.482,99.482,0,0,1,15.047-35.757,100.286,100.286,0,0,1,44-36.23,99.423,99.423,0,0,1,18.77-5.827A100.706,100.706,0,0,1,100,100a100.8,100.8,0,0,1-20.154-2.031,99.441,99.441,0,0,1-18.77-5.827,99.955,99.955,0,0,1-16.987-9.22A100.71,100.71,0,0,1,29.29,70.71a100.71,100.71,0,0,1-12.211-14.8,99.956,99.956,0,0,1-9.22-16.987,99.441,99.441,0,0,1-5.828-18.77A100.8,100.8,0,0,1,0,0,100.77,100.77,0,0,1,20.154,2.031a99.441,99.441,0,0,1,18.77,5.827,99.955,99.955,0,0,1,16.987,9.22A100.71,100.71,0,0,1,70.71,29.29a100.711,100.711,0,0,1,12.211,14.8,99.955,99.955,0,0,1,9.22,16.987,99.44,99.44,0,0,1,5.827,18.77A100.793,100.793,0,0,1,100,100a100.807,100.807,0,0,1,2.031-20.153,99.482,99.482,0,0,1,15.047-35.757,100.286,100.286,0,0,1,44-36.23,99.423,99.423,0,0,1,18.77-5.827A100.773,100.773,0,0,1,200,0a100.782,100.782,0,0,1-2.031,20.154,99.421,99.421,0,0,1-5.827,18.77,99.964,99.964,0,0,1-9.22,16.987,100.733,100.733,0,0,1-12.211,14.8,100.732,100.732,0,0,1-14.8,12.211,99.966,99.966,0,0,1-16.987,9.22,99.491,99.491,0,0,1-18.77,5.827A100.768,100.768,0,0,1,100,100a100.738,100.738,0,0,1,20.153,2.032,99.451,99.451,0,0,1,35.757,15.047,100.292,100.292,0,0,1,36.23,44,99.5,99.5,0,0,1,5.827,18.771A100.738,100.738,0,0,1,200,200Z" transform="translate(1400 1100)" fill="#16a3b2"/>
+        <path id="Shape-92" data-name="Shape" d="M0,0H200A100,100,0,0,1,100,100,100,100,0,0,1,0,0Z" transform="translate(700 100)" fill="#51c5d2"/>
+        <path id="Shape-93" data-name="Shape" d="M173.244,50A100.033,100.033,0,0,1,0,50a100.033,100.033,0,0,1,173.244,0Z" transform="translate(1413.333 300)" fill="#ffc641"/>
+        <path id="Shape-94" data-name="Shape" d="M100,0A100,100,0,0,1,0,100,100,100,0,0,1,100,0Z" transform="translate(800 800)" fill="#06818e"/>
+        <path id="Shape-95" data-name="Shape" d="M100,100A100,100,0,0,1,200,200,100,100,0,0,1,100,100Zm0,0A100,100,0,0,1,0,200,100,100,0,0,1,100,100Z" fill="#111747"/>
+        <path id="Shape-96" data-name="Shape" d="M200,200h0a100.737,100.737,0,0,1-20.152-2.032,99.451,99.451,0,0,1-35.757-15.047,100.292,100.292,0,0,1-36.231-44,99.5,99.5,0,0,1-5.827-18.771A100.725,100.725,0,0,1,100,100.294a100.841,100.841,0,0,1-2.032,19.859,99.49,99.49,0,0,1-5.827,18.77,99.966,99.966,0,0,1-9.22,16.987,100.732,100.732,0,0,1-12.211,14.8,100.73,100.73,0,0,1-14.8,12.211,99.964,99.964,0,0,1-16.987,9.22,99.416,99.416,0,0,1-18.77,5.827A100.765,100.765,0,0,1,0,200H0a100.81,100.81,0,0,1,2.031-20.154,99.482,99.482,0,0,1,15.047-35.757,100.286,100.286,0,0,1,44-36.23,99.423,99.423,0,0,1,18.77-5.827A100.706,100.706,0,0,1,100,100a100.8,100.8,0,0,1-20.154-2.031,99.441,99.441,0,0,1-18.77-5.827,99.955,99.955,0,0,1-16.987-9.22A100.71,100.71,0,0,1,29.29,70.71a100.71,100.71,0,0,1-12.211-14.8,99.956,99.956,0,0,1-9.22-16.987,99.441,99.441,0,0,1-5.828-18.77A100.8,100.8,0,0,1,0,0,100.77,100.77,0,0,1,20.154,2.031a99.441,99.441,0,0,1,18.77,5.827,99.955,99.955,0,0,1,16.987,9.22A100.71,100.71,0,0,1,70.71,29.29a100.711,100.711,0,0,1,12.211,14.8,99.955,99.955,0,0,1,9.22,16.987,99.44,99.44,0,0,1,5.827,18.77A100.793,100.793,0,0,1,100,100a100.807,100.807,0,0,1,2.031-20.153,99.482,99.482,0,0,1,15.047-35.757,100.286,100.286,0,0,1,44-36.23,99.423,99.423,0,0,1,18.77-5.827A100.773,100.773,0,0,1,200,0a100.782,100.782,0,0,1-2.031,20.154,99.421,99.421,0,0,1-5.827,18.77,99.964,99.964,0,0,1-9.22,16.987,100.733,100.733,0,0,1-12.211,14.8,100.732,100.732,0,0,1-14.8,12.211,99.966,99.966,0,0,1-16.987,9.22,99.491,99.491,0,0,1-18.77,5.827A100.768,100.768,0,0,1,100,100a100.738,100.738,0,0,1,20.153,2.032,99.451,99.451,0,0,1,35.757,15.047,100.292,100.292,0,0,1,36.23,44,99.5,99.5,0,0,1,5.827,18.771A100.738,100.738,0,0,1,200,200Z" transform="translate(400 800)" fill="#16a3b2"/>
+        <path id="Path-2" data-name="Path" d="M0,0A100,100,0,0,1,100,100,100,100,0,0,1,0,0Z" transform="translate(700 100)" fill="#06818e"/>
+      </g>
+    </g>
+  </g>
+  <ellipse id="Ellipse_1" data-name="Ellipse 1" cx="59.5" cy="57.5" rx="59.5" ry="57.5" transform="translate(0 965)" fill="url(#linear-gradient)"/>
+  <path id="Path_4" data-name="Path 4" d="M1282.794,25s-194.962,71.068-194.962,90.847-113.021,14.128-132.8,0-31.081-45.209-11.3-64.987S955.032,25,955.032,25Z" transform="translate(-674 -25)" fill="url(#linear-gradient-2)"/>
+</svg>

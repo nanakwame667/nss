@@ -1,13 +1,31 @@
 import React from 'react';
 
+import {motion} from 'framer-motion';
+
 import './signup.css';
 
 function logInVerify(){
     alert('You have successfully created an account');
 }
 function SignUpScreen(){
+    const variants = {
+        hidden: { opacity: 0 },
+        visible: { opacity: 1 },
+      }
     return(
-        <div className="signUp">
+        <motion.div 
+        initial="hidden"
+        animate="visible"
+        variants={variants}
+        drag
+    dragConstraints={{
+        top: -50,
+        left: -50,
+        right: 50,
+        bottom: 50,
+    }}
+        className="signUp">
+            <div className="signUpDetails">
             <h1>
                 SIGN UP
             </h1>
@@ -44,13 +62,15 @@ function SignUpScreen(){
                 onClick={logInVerify}
             >
                 Create an account
+                <span></span><span></span><span></span><span></span>
             </button>
 
             <div className="condition">
                 <p> Have an account?</p>
                 <a href="/">Sign in</a>
             </div>
-        </div>
+            </div>
+        </motion.div>
     );
 }
 
