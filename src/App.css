@@ -60,5 +60,6 @@ form input{
   }
   button{
     width: 180px;
+    margin-bottom: -10px;
   }
 }

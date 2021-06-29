@@ -39,6 +39,7 @@
 @media only screen and (max-width: 768px){
     .signUp{
         width: 84%;
+        height: 570px;
     }
     .formName input{
         width: 300px;
